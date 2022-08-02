@@ -1,2 +1,3 @@
 # Yueyilin.github.io
-my first blog site: http://aillianyue.gitee.io/
+because the internet is slow, so ...
+my blog site: http://aillianyue.gitee.io/
